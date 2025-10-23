@@ -24,6 +24,14 @@ O arquivo Excel usado (`abril25.xlsx`) contém dados reais de vendas, porém as 
 
 ---
 
+## Capturas de Tela
+
+![Dashboard - Vendas](img1.png)  
+![Dashboard - Tela de apresentação](img2.png)
+
+---
+
+
 ## Tecnologias Utilizadas
 
 - [Python 3.10+](https://www.python.org/)  
