@@ -9,7 +9,7 @@ Embora inicialmente eu utilizasse o Power BI, sua versão gratuita possui limita
 - Visualizar métricas e gráficos diretamente em um navegador ou notebook conectado a uma TV;  
 - Fazer apresentações em tela cheia com facilidade (F11).  
 
-O arquivo Excel usado (`abril25.xlsx`) contém dados reais de vendas, porém as colunas de **CNPJ** e **vendedores** foram alteradas para preservar a privacidade.
+Alguns dados da planilha (abril25.xlsx) foram alterados para conservar a privacidade, incluindo informações de vendas, nomes de vendedores e CNPJ da empresa.
 
 ---
 
@@ -34,7 +34,7 @@ O arquivo Excel usado (`abril25.xlsx`) contém dados reais de vendas, porém as 
 
 ## Tecnologias Utilizadas
 
-- [Python 3.10+](https://www.python.org/)  
+- [Python](https://www.python.org/)  
 - [Streamlit](https://streamlit.io/) – criação do dashboard web interativo  
 - [Pandas](https://pandas.pydata.org/) – manipulação e filtragem de dados  
 - [Plotly](https://plotly.com/python/) – gráficos interativos  
@@ -52,7 +52,11 @@ cd <NOME_DO_REPOSITORIO>
 ```
 
 2. Instale as dependências:
+```bash
 pip install streamlit pandas plotly openpyxl
+```
 
 3. Execute o dashboard:
+```bash
 streamlit run relatvenda.py
+```
