@@ -43,7 +43,7 @@ git clone <URL_DO_REPOSITORIO>
 cd <NOME_DO_REPOSITORIO>
 ```
 
-2. Instale as dependencias:
+2. Instale as dependências:
 pip install streamlit pandas plotly openpyxl
 
 3. Execute o dashboard:
