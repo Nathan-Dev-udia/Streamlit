@@ -1,4 +1,4 @@
-# 📊 Relatório de Vendas - Abril 2025 (Streamlit)
+# 📊 Relatório de Vendas (Streamlit)
 
 ## Descrição do Projeto
 Este projeto surgiu como alternativa ao Power BI para a criação de relatórios de vendas interativos e compartilháveis.  
